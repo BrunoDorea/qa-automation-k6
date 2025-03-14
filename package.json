@@ -1,0 +1,10 @@
+{
+    "name": "qa-automation-k6",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "k6 run test/test.js"
+    },
+    "author": "Bruno Dórea",
+    "license": "ISC",
+    "description": ""
+}
